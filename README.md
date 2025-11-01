@@ -1,5 +1,8 @@
 # WanGP Manager EXE Builder
 
+[![Download EXE](https://img.shields.io/github/v/release/HITman-DE/WanGP-Manager-EXE-Builder?color=2ea043&label=Download%20EXE&style=for-the-badge)](https://github.com/HITman-DE/WanGP-Manager-EXE-Builder/releases/latest/download/WanGP-Manager.exe)
+
+
 PowerShell script that builds a standalone **.exe** launcher for **WanGP (Wan2GP)** with a simple WinForms GUI.  
 It automatically checks/installs **PS2EXE**, detects **Conda/Python/Git**, and lets you update/rollback/restore the repo and start **WanGP** with selectable options (attention, FP16, share/server settings).
 
@@ -39,5 +42,6 @@ It automatically checks/installs **PS2EXE**, detects **Conda/Python/Git**, and l
 ## Preview
 
 ![WanGP Manager GUI](WanGP_Updater_EXE.png)
+
 
 
