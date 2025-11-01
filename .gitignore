@@ -1,0 +1,25 @@
+# Windows / PowerShell / Build artifacts
+*.exe
+*.msi
+*.log
+*.tmp
+*.bak
+*.cache
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Editors / IDE
+.vscode/
+.history/
+
+# Python/Conda (if any helper files appear)
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+venv/
+
+# PS2EXE temporary files
+*WanGP_*.ps1
