@@ -38,3 +38,7 @@ It automatically checks/installs **PS2EXE**, detects **Conda/Python/Git**, and l
 
 ## Repository Layout
 
+## Preview
+
+![WanGP Manager GUI](WanGP_Updater_EXE.png)
+
